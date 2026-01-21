@@ -1,4 +1,4 @@
-Desafio feito por Felipão da DIO ao qual consiste em Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+Desafio feito por Felipão da DIO ao qual consiste em criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
 Se XP for menor do que 1.000 = Ferro
 Se XP for entre 1.001 e 2.000 = Bronze
